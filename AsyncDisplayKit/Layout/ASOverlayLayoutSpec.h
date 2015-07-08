@@ -8,7 +8,7 @@
  *
  */
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
+#import "ASLayoutSpec.h"
 
 /**
  This layout spec lays out a single layoutable child and then overlays a layoutable object on top of it streched to its size

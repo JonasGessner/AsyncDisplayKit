@@ -8,8 +8,8 @@
  *
  */
 
-#import <AsyncDisplayKit/ASDimension.h>
-#import <AsyncDisplayKit/ASStackLayoutChild.h>
+#import "ASDimension.h"
+#import "ASStackLayoutChild.h"
 
 @class ASLayout;
 

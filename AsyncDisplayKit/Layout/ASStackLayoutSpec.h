@@ -8,7 +8,7 @@
  *
  */
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
+#import "ASLayoutSpec.h"
 
 typedef NS_ENUM(NSUInteger, ASStackLayoutDirection) {
   ASStackLayoutDirectionVertical,

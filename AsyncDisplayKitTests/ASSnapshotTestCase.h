@@ -8,7 +8,7 @@
 
 #import <FBSnapshotTestCase/FBSnapshotTestCase.h>
 
-#import <AsyncDisplayKit/ASDisplayNode.h>
+#import "ASDisplayNode.h"
 
 #define ASSnapshotVerifyNode(node__, identifier__) \
 { \

@@ -8,7 +8,7 @@
  *
  */
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
+#import "ASLayoutSpec.h"
 
 typedef NS_OPTIONS(NSUInteger, ASCenterLayoutSpecCenteringOptions) {
   /** The child is positioned in {0,0} relatively to the layout bounds */

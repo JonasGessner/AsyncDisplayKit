@@ -9,8 +9,8 @@
  */
 
 #import <UIKit/UIKit.h>
-#import <AsyncDisplayKit/ASAssert.h>
-#import <AsyncDisplayKit/ASLayoutable.h>
+#import "ASAssert.h"
+#import "ASLayoutable.h"
 
 extern CGPoint const CGPointNull;
 

@@ -8,8 +8,8 @@
 
 #import <OCMock/OCMock.h>
 
-#import <AsyncDisplayKit/ASImageProtocols.h>
-#import <AsyncDisplayKit/ASMultiplexImageNode.h>
+#import "ASImageProtocols.h"
+#import "ASMultiplexImageNode.h"
 
 #import <libkern/OSAtomic.h>
 

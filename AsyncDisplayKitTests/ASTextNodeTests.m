@@ -10,7 +10,7 @@
 
 #import <OCMock/OCMock.h>
 
-#import <AsyncDisplayKit/ASTextNode.h>
+#import "ASTextNode.h>
 
 #import <XCTest/XCTest.h>
 

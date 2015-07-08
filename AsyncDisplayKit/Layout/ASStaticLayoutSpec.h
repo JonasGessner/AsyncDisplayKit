@@ -8,8 +8,8 @@
  *
  */
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
-#import <AsyncDisplayKit/ASStaticLayoutSpecDimension.h>
+#import "ASLayoutSpec.h"
+#import "ASStaticLayoutSpecDimension.h"
 
 @interface ASStaticLayoutSpecChild : NSObject
 

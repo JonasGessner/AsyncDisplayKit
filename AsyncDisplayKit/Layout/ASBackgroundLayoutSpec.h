@@ -8,7 +8,7 @@
  *
  */
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
+#import "ASLayoutSpec.h"
 
 /**
  Lays out a single layoutable child, then lays out a background layoutable instance behind it stretched to its size.

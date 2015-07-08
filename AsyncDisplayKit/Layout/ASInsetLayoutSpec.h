@@ -8,7 +8,7 @@
  *
  */
 
-#import <AsyncDisplayKit/ASLayoutSpec.h>
+#import "ASLayoutSpec.h"
 
 /**
  A layout spec that wraps another layoutable child, applying insets around it.
